@@ -5,5 +5,5 @@
 </p>
 <br>
 
-# Stats
+# Stats 📊
 ![KunjPathak12github stats](https://github-readme-stats.vercel.app/api?username=KunjPathak12&show_icons=true&hide_border=true)
