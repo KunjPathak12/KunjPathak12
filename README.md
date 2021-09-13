@@ -30,4 +30,4 @@
 # Languages 📕
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunjPathak12&layout=compact)](https://github.com/KunjPathak12/github-readme-stats)
 # System in Use
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" width="100px"/><img src="https://c.tenor.com/5IWFYb4D1WMAAAAi/swan_hack-dab.gif" width="100px"> 
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" width="100px"/><img src="https://c.tenor.com/5IWFYb4D1WMAAAAi/swan_hack-dab.gif" width="50px"> 
