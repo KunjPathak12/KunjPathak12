@@ -10,7 +10,7 @@
 <br>
 
 # Recent Projects
-- A Data Science and Machine learning related project on [Covid-19-Analysis-Visualization-and-Prediction](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction.git)🦠
+- A Data Science and Machine learning related project on [Covid-19-Analysis-Visualization-and-Prediction](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction.git) 🦠.
 # Stats 📊
 ![KunjPathak12github stats](https://github-readme-stats.vercel.app/api?username=KunjPathak12&show_icons=true&hide_border=true)
 # Languages 📕
