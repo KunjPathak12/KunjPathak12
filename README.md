@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=KunjPathak12)
 # Hello&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 <p>
@@ -7,5 +8,5 @@
 
 # Stats 📊
 ![KunjPathak12github stats](https://github-readme-stats.vercel.app/api?username=KunjPathak12&show_icons=true&hide_border=true)
-
+# Languages 📕
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunjPathak12&layout=compact)](https://github.com/KunjPathak12/github-readme-stats)
