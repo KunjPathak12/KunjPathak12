@@ -8,8 +8,10 @@ ____________________________________________________________________
 </p>
 <br>
 ____________________________________________________________________
+
 # 📜Recent Projects
 - A Data Science and Machine learning related project on [Covid-19-Analysis-Visualization-and-Prediction](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction.git).
+
 ____________________________________________________________________
 # 🚀 Skills 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
