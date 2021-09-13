@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunj-pathak-0b12b1a3)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Kunj_Pathak)
 ____________________________________________________________________
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> Hello&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> Hello&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <p>
     I am a Computer Science student,<b>Developer</b> <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="20px"> and a <b>Linux enthusiast,my interests are in Data science and Machine Learning and fondly interested in Algorithms and Data Structures</b>&nbsp;<br>I am curious learner with the keen idea of <b>improving</b> himself and wants to gain more <b>experience</b> to <b>grow</b> and <b>learn.</b><img src="https://c.tenor.com/27kP4pPliZwAAAAi/rocket-fly.gif" width="20px">  
 </p>
