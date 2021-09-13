@@ -7,6 +7,8 @@
 </p>
 <br>
 
+# 🚀 Skills 
+- [![c++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/KunjPathak12/)
 # Recent Projects
 - A Data Science and Machine learning related project on [Covid-19-Analysis-Visualization-and-Prediction](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction.git) 🦠.
 # Stats 📊
