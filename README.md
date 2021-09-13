@@ -1,7 +1,5 @@
 ### Pathak Kunj H
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunj-pathak-0b12b1a3)
-[![Instagrem](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gokul_r_nair_/)
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=KunjPathak12)
 # Hello&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
