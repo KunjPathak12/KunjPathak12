@@ -7,3 +7,5 @@
 
 # Stats 📊
 ![KunjPathak12github stats](https://github-readme-stats.vercel.app/api?username=KunjPathak12&show_icons=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunjPathak12&layout=compact)](https://github.com/KunjPathak12/github-readme-stats)
