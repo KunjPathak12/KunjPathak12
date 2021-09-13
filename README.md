@@ -7,8 +7,8 @@ ____________________________________________________________________
     I am a Computer Science student,<b>Developer</b> <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="20px"> and a <b>Linux enthusiast,my interests are in Data science and Machine Learning and fondly interested in Algorithms and Data Structures</b>&nbsp;<br>I am curious learner with the keen idea of <b>improving</b> himself and wants to gain more <b>experience</b> to <b>grow</b> and <b>learn.</b><img src="https://c.tenor.com/27kP4pPliZwAAAAi/rocket-fly.gif" width="20px">  
 </p>
 <br>
-____________________________________________________________________
 
+____________________________________________________________________
 # 📜Recent Projects
 - A Data Science and Machine learning related project on [Covid-19-Analysis-Visualization-and-Prediction](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction.git).
 
